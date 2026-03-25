@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+trading_bot.log
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
