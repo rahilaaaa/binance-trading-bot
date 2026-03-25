@@ -58,18 +58,11 @@ python -m venv venv
 
 Activate it:
 
-* Windows:
+
 
 ```bash
 venv\Scripts\activate
 ```
-
-* Linux/Mac:
-
-```bash
-source venv/bin/activate
-```
-
 ---
 
 ### 3. Install dependencies
